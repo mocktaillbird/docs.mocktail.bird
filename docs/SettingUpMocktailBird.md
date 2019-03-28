@@ -10,6 +10,8 @@ Docker hub repository for [mocktailbird](https://cloud.docker.com/repository/doc
 
 #####  Set Up: 🏖️
 
+0. [Install Docker](https://docs.docker.com/docker-for-mac/install/)
+
 1. Creating docker network bridge
 
    >docker network create -d bridge mongodb
